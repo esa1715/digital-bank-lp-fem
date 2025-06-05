@@ -37,11 +37,11 @@ header {
     background-color: $white;
 }
 
-.navbar img, .nav-actions li:hover, .request{
+.navbar img, .nav-actions li:hover, #nav-request, #intro-request {
     cursor: pointer;
 }
 
-.navbar img, .request {
+.navbar img, #nav-request, #intro-request {
     padding: 2px 0;
 }
 
@@ -85,7 +85,7 @@ header {
     font-weight: 400;
 }
 
-.request {
+#nav-request, #intro-request {
     background: linear-gradient(90deg, rgba(49, 211, 92, 1) 0%, rgba(43, 183, 218, 1) 100%);
     font-size: 14px;
     font-weight: 700;
@@ -94,7 +94,7 @@ header {
     color: $very-light-gray;
 }
 
-.request:hover {
+#nav-request:hover, #intro-request:hover {
     background: linear-gradient(90deg, rgba(49, 211, 92, 0.5) 0%, rgba(43, 183, 218, 0.5) 100%);
 }
 
@@ -147,15 +147,16 @@ header {
 }
 
 @media screen and (max-width: 768px) {
-    .nav-actions, .request {
+    .nav-actions, #nav-request {
         display: none;
     }
 
     .intro-texts {
-        width: 95%;
-        top: 65%;
-        left: 2.5%;
+        width: 90%;
+        top: 60%;
+        left: 5%;
         text-align: center;
+        align-items: center;
     }
 
     .intro-texts h1 {
