@@ -97,7 +97,8 @@ header {
   max-width: 28.125rem;
   position: absolute;
   top: 230px;
-  left: 215px;
+  top: 32%;
+  left: 14%;
 }
 
 .intro-texts h1 {
@@ -135,19 +136,76 @@ header {
   z-index: 2;
 }
 
+.benefits {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #f3f4f6;
+  position: absolute;
+  top: 105%;
+  left: 0%;
+  gap: 60px;
+  padding: 70px 0 70px 200px;
+}
+
+.benefits-title {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.benefits-title h2 {
+  font-size: 48px;
+  color: #2d314d;
+  font-weight: 400;
+}
+
+.benefits-title p {
+  font-size: 18px;
+  color: #9698a6;
+  max-width: 640px;
+}
+
+.benefits-icons {
+  display: flex;
+  gap: 40px;
+}
+
+.benefit-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  max-width: 250px;
+}
+
+.benefit-item h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #2d314d;
+}
+
+.benefit-item p {
+  font-size: 16px;
+  color: #9698a6;
+}
+
 @media screen and (max-width: 768px) {
   .nav-actions, #nav-request {
     display: none;
   }
   .intro-texts {
     width: 90%;
-    top: 60%;
+    top: 63%;
     left: 5%;
     text-align: center;
     align-items: center;
   }
   .intro-texts h1 {
     font-size: 40px;
+  }
+  #intro-request {
+    padding: 1rem 1.75rem;
   }
   .mockups-bg-desktop {
     display: none;
@@ -163,5 +221,27 @@ header {
     position: absolute;
     top: -10%;
     right: 0%;
+  }
+  .benefits {
+    justify-content: center;
+    align-items: center;
+    padding: 70px 0;
+    top: 120%;
+  }
+  .benefits-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 80%;
+  }
+  .benefits-icons {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .benefit-item {
+    align-items: center;
+    text-align: center;
   }
 }/*# sourceMappingURL=styles.css.map */
