@@ -20,11 +20,12 @@ header {
 
 .navbar {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
   height: 80px;
   background-color: #ffffff;
+  padding: 0 160px;
 }
 
 .navbar img, .nav-actions li:hover, #nav-request, #intro-request, #footer-request {
@@ -90,6 +91,10 @@ header {
 #footer-request:hover {
   background: linear-gradient(90deg, rgba(49, 211, 92, 0.5) 0%, rgba(43, 183, 218, 0.5) 100%);
   background-color: #ffffff;
+}
+
+#menu-btn, .menu-mobile {
+  display: none;
 }
 
 main {
@@ -212,7 +217,7 @@ main {
 .articles h2 {
   font-size: 3rem;
   color: #2d314d;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .articles-itens {
@@ -339,6 +344,60 @@ footer {
 @media screen and (max-width: 768px) {
   .nav-actions, #nav-request {
     display: none;
+  }
+  .navbar {
+    padding: 0 1.5rem;
+    height: 60px;
+    z-index: 101;
+  }
+  #menu-btn {
+    display: flex;
+  }
+  .menu-mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    top: 12%;
+    height: 100vh;
+    width: 0;
+    z-index: 100;
+    overflow: hidden;
+    transition: 0.2s;
+  }
+  .menu-mobile.open-menu {
+    width: 100%;
+  }
+  .menu-mobile nav {
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 90%;
+    padding: 3rem 0;
+    border-radius: 6px;
+  }
+  .menu-mobile nav ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+    color: #2d314d;
+  }
+  .menu-mobile nav ul li:hover {
+    color: #2dc88e;
+  }
+  #overlay-menu {
+    background: rgba(45, 49, 77, 0.8);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    display: none;
+  }
+  #overlay-menu.open-overlay {
+    display: flex;
   }
   .intro {
     width: 100%;
