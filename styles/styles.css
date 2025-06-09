@@ -32,11 +32,11 @@ header {
   padding: 0 160px;
 }
 
-.navbar img, .nav-actions li:hover, #nav-request, #intro-request, #footer-request {
+.navbar svg, .nav-actions li:hover, #nav-request, #intro-request, #footer-request {
   cursor: pointer;
 }
 
-.navbar img, #nav-request, #intro-request, #footer-request {
+#nav-request, #intro-request, #footer-request {
   padding: 2px 0;
 }
 
@@ -359,6 +359,12 @@ footer {
   }
   #menu-btn {
     display: flex;
+    width: 24px;
+    height: 11px;
+  }
+  #menu-btn.close {
+    width: 18px;
+    height: 19px;
   }
   .menu-mobile {
     display: flex;
