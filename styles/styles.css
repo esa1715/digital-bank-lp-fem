@@ -12,6 +12,10 @@ body {
   overflow-x: hidden;
 }
 
+body.menu-open {
+  overflow: hidden;
+}
+
 header {
   display: flex;
   width: 100%;
@@ -23,7 +27,7 @@ header {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  height: 80px;
+  height: 75px;
   background-color: #ffffff;
   padding: 0 160px;
 }
@@ -347,7 +351,6 @@ footer {
   }
   .navbar {
     padding: 0 1.5rem;
-    height: 60px;
     z-index: 101;
   }
   #menu-btn {
@@ -358,7 +361,7 @@ footer {
     flex-direction: column;
     align-items: center;
     position: fixed;
-    top: 12%;
+    top: 15%;
     height: 100vh;
     width: 0;
     z-index: 100;
@@ -387,7 +390,8 @@ footer {
     color: #2dc88e;
   }
   #overlay-menu {
-    background: rgba(45, 49, 77, 0.8);
+    background: #ffffff;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.1) 0%, rgb(45, 49, 77) 100%);
     width: 100%;
     height: 100%;
     position: fixed;
@@ -403,7 +407,7 @@ footer {
     width: 100%;
     justify-content: center;
     align-items: center;
-    padding: 100% 0 10% 0;
+    padding: 100% 0 70px 0;
   }
   .intro-texts {
     width: 90%;
@@ -456,7 +460,6 @@ footer {
     text-align: center;
   }
   .articles {
-    top: 295%;
     padding: 70px 0;
     justify-content: center;
     align-items: center;
