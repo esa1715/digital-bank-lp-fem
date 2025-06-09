@@ -248,13 +248,16 @@ main {
     align-items: center;
     background-color: $white;
     gap: 30px;
-    border-radius: 6px; 
+    width: 285px;
+    border-radius: 6px;
+    overflow: hidden;
 }
 
-.article-card img{
+.article-card img {
+    width: 100%;
+    height: 215px;
+    object-fit: cover;
     border-radius: 6px 6px 0 0;
-    min-height: 215px;
-    min-width: 285px;
 }
 
 .article-card-content {
@@ -263,7 +266,7 @@ main {
     justify-content: center;
     align-items: flex-start;
     gap: 10px;
-    padding: 0 1.5rem 2rem 1.5rem;
+    padding: 0 1.25rem 2rem 1.5rem;
 }
 
 .article-card-content span, .article-card-content p {
@@ -275,7 +278,7 @@ main {
 }
 
 .article-card h3 {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     font-weight: 400;
     color: $dark-blue;
 }
@@ -286,7 +289,7 @@ main {
 }
 
 .article-card p {
-    font-size: 1rem;
+    font-size: 0.875rem;
 }
 
 footer {
@@ -501,6 +504,10 @@ footer {
 
     .articles h2 {
         font-size: 2.5rem;
+    }
+
+    .article-card {
+        width: 100%;
     }
 
     .articles-itens {
