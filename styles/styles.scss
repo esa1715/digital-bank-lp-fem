@@ -88,6 +88,7 @@ header {
 .nav-actions li a {
     color: $grayish-blue;
     font-weight: 400;
+    transition: color 0.3s ease;
 }
 
 #nav-request, #intro-request, #footer-request {
@@ -281,6 +282,7 @@ section.intro .intro-texts h1 {
     font-size: 1.125rem;
     font-weight: 400;
     color: $dark-blue;
+    transition: color 0.3s ease;
 }
 
 .article-card h3:hover {
@@ -325,6 +327,10 @@ footer {
     gap: 0.875rem;
 }
 
+.social-logo path {
+    transition: fill 0.3s ease;
+}
+
 .social-logo:hover path {
     fill: $hover;
 }
@@ -342,6 +348,7 @@ footer {
 
 .footer-column li a {
     color: $light-grayish-blue;
+    transition: color 0.3s ease;
 }
 
 .footer-column li a:hover {
