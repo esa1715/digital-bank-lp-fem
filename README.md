@@ -2,7 +2,7 @@
 
 Esta landing page foi desenvolvida como parte de um desafio da [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
 
-No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com SASS e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
+No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com Sass e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
 
 ## Sumário
 
@@ -39,8 +39,8 @@ Acesse o projeto online: [digital-bank-lp-fem.vercel.app](https://digital-bank-l
 
 <img
     align="left"
-    alt="SASS" 
-    title="SASS"
+    alt="Sass" 
+    title="Sass"
     width="64px" 
     style="padding-right: 16px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
