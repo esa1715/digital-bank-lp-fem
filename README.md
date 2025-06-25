@@ -1,6 +1,16 @@
 # Frontend Mentor - landing page da Easybank
 
-Esta é a minha solução para o [desafio de criar a landing page da Easybank no Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos reais.
+Esta landing page foi desenvolvida como parte de um desafio da [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
+
+No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com SASS e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
+
+## Sumário
+
+- [Preview](#preview)
+- [Demo](#demo)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias usadas](#tecnologias-usadas)
+- [Autor](#autor)
 
 ## Preview
 
@@ -8,41 +18,41 @@ Esta é a minha solução para o [desafio de criar a landing page da Easybank no
 
 ## Demo
 
-Acesse o projeto online: https://digital-bank-lp-fem.vercel.app/
+Acesse o projeto online: [digital-bank-lp-fem.vercel.app](https://digital-bank-lp-fem.vercel.app/)
+
+## Funcionalidades
+
+- Layout responsivo adaptado para desktop e alguns dispositivos móveis
+- Menu hambúrguer para navegação em dispositivos móveis
+- Transições suaves que aprimoram a experiência visual
 
 ## Tecnologias usadas
 
-<div>
-  
-  <img 
-    align="left" 
+<img
+    align="left"
     alt="HTML"
     title="HTML" 
     width="64px" 
-    style="padding-right: 16px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    style="padding-right: 16px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-<img 
-    align="left" 
+<img
+    align="left"
     alt="SASS" 
     title="SASS"
     width="64px" 
     style="padding-right: 16px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="64px" 
-    style="padding-right: 16px;"  
+    style="padding-right: 16px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-</div>
-
 ## Autor
 
--Erik Alves
+[Erik Alves](https://portfolio-pessoal-alpha-nine.vercel.app/)
