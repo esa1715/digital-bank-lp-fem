@@ -4,13 +4,13 @@ Esta landing page foi desenvolvida como parte de um desafio da [Frontend Mentor]
 
 No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com Sass e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
 
-## Sumário
+<!-- ## Sumário
 
 - [Preview](#preview)
 - [Demo](#demo)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias usadas](#tecnologias-usadas)
-- [Autor](#autor)
+- [Autor](#autor) -->
 
 ## Preview
 
