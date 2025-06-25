@@ -48,19 +48,19 @@ Acesse o projeto online: [digital-bank-lp-fem.vercel.app](https://digital-bank-l
 
 <img 
     align="left"
-    alt="JavaScript" 
-    title="JavaScript"
-    width="64px" 
-    style="padding-right: 16px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
     alt="Sass" 
     title="Sass"
     width="64px" 
     style="padding-right: 16px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<img
+    alt="JavaScript" 
+    title="JavaScript"
+    width="64px" 
+    style="padding-right: 16px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 ## Autor
