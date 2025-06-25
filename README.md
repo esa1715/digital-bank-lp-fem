@@ -18,7 +18,7 @@ No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semâ
 
 ## Demo
 
-Acesse o projeto online: [digital-bank-lp-fem.vercel.app](https://digital-bank-lp-fem.vercel.app/)
+Clique <a href="https://digital-bank-lp-fem.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a>  para acessar o projeto online
 
 ## Funcionalidades
 
@@ -65,4 +65,6 @@ Acesse o projeto online: [digital-bank-lp-fem.vercel.app](https://digital-bank-l
 
 ## Autor
 
-[Erik Alves](https://portfolio-pessoal-alpha-nine.vercel.app/)
+<a href="https://portfolio-pessoal-alpha-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Erik Alves</a>
+
+
