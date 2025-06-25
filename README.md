@@ -37,20 +37,30 @@ Acesse o projeto online: [digital-bank-lp-fem.vercel.app](https://digital-bank-l
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Sass" 
-    title="Sass"
-    width="64px" 
-    style="padding-right: 16px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
 <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="64px" 
+    style="padding-right: 16px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left"
     alt="JavaScript" 
     title="JavaScript"
     width="64px" 
     style="padding-right: 16px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+    alt="Sass" 
+    title="Sass"
+    width="64px" 
+    style="padding-right: 16px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 ## Autor
