@@ -1,4 +1,4 @@
-# Frontend Mentor - landing page do Easybank
+# Frontend Mentor - Landing Page do Easybank
 
 Esta landing page foi desenvolvida como parte de um desafio da [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
 
