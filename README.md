@@ -1,16 +1,8 @@
-# Landing Page Easybank (Frontend Mentor)
+# 🏦 Landing Page Easybank (Frontend Mentor)
 
 Esta landing page foi desenvolvida como parte de um desafio da [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
 
 No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com Sass e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
-
-<!-- ## 🧾 Sumário
-
-- [Preview](#preview)
-- [Demo](#demo)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias usadas](#tecnologias-usadas)
-- [Autor](#autor) -->
 
 ## 👀 Preview
 
@@ -25,7 +17,6 @@ Clique <a href="https://digital-bank-lp-fem.vercel.app/" target="_blank" rel="no
 - 📱 **Layout responsivo** adaptado para desktop e dispositivos móveis  
 - 🍔 **Menu hambúrguer** para navegação em dispositivos móveis  
 - 🎨 **Transições suaves** que aprimoram a experiência visual
-
 
 ## 💻 Tecnologias usadas
 
@@ -67,5 +58,3 @@ Clique <a href="https://digital-bank-lp-fem.vercel.app/" target="_blank" rel="no
 ## 👨‍💻 Autor
 
 <a href="https://portfolio-pessoal-alpha-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Erik Alves</a>
-
-
