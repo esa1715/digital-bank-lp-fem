@@ -27,7 +27,7 @@ Clique <a href="https://digital-bank-lp-fem.vercel.app/" target="_blank" rel="no
 - 🎨 **Transições suaves** que aprimoram a experiência visual
 
 
-## 🛠️ Tecnologias usadas
+## 💻 Tecnologias usadas
 
 <img
     align="left"
