@@ -1,6 +1,6 @@
 # 🏦 Landing Page Easybank (Frontend Mentor) 
 
-Esta landing page foi desenvolvida como parte de um desafio da [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
+Esta projeto foi desenvolvida como parte do desafio [Digital bank landing page](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-KMoyxWACQr) da [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
 
 No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com Sass e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
 
