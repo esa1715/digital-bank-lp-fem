@@ -4,13 +4,21 @@ Este projeto foi desenvolvida como parte do desafio [Digital bank landing page](
 
 No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com Sass e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
 
+## 🎯 O desafio
+
+Os usuários devem ser capazes de:
+
+- Visualizar o layout ideal do site dependendo do tamanho da tela do dispositivo
+- Ver os estados de hover para todos os elementos interativos da página
+
+## 🔗 Links
+
+- [Solução](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-KMoyxWACQr)
+- [Site publicado](https://digital-bank-lp-fem.vercel.app/)
+
 ## 👀 Preview
 
 ![Preview do projeto](./assets/preview.png)
-
-## ▶️ Demo
-
-Clique <a href="https://digital-bank-lp-fem.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a>  para acessar o projeto online
 
 ## ⚙️ Funcionalidades
 
