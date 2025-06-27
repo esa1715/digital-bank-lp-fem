@@ -55,8 +55,10 @@ Clique <a href="https://digital-bank-lp-fem.vercel.app/" target="_blank" rel="no
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor  
+**Erik Alves**
 
-- Portfólio - [Erik Alves](https://portfolio-pessoal-alpha-nine.vercel.app/)
-- Frontend Mentor - [@esa1715](https://www.frontendmentor.io/profile/esa1715)
-- Linkedin - [erikalves12](https://www.linkedin.com/in/erikalves12)
+- 🌐 [**Portfólio**](https://portfolio-pessoal-alpha-nine.vercel.app/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/erikalves12)
+- 🧩 [**Frontend Mentor**](https://www.frontendmentor.io/profile/esa1715)
+
