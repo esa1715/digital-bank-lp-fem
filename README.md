@@ -11,14 +11,14 @@ Os usuários devem ser capazes de:
 - Visualizar o layout ideal do site dependendo do tamanho da tela do dispositivo
 - Ver os estados de hover para todos os elementos interativos da página
 
+## 👀 Preview
+
+![Preview do projeto](./assets/preview.png)
+
 ## 🔗 Links
 
 - [Solução](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-KMoyxWACQr)
 - [Site publicado](https://digital-bank-lp-fem.vercel.app/)
-
-## 👀 Preview
-
-![Preview do projeto](./assets/preview.png)
 
 ## ⚙️ Funcionalidades
 
