@@ -31,43 +31,6 @@ Os usuários devem ser capazes de:
 - 🍔 **Menu hambúrguer** para navegação em dispositivos móveis  
 - 🎨 **Transições suaves** que aprimoram a experiência visual
 
-## 💻 Tecnologias usadas
-
-<img
-    align="left"
-    alt="HTML"
-    title="HTML" 
-    width="64px" 
-    style="padding-right: 16px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="64px" 
-    style="padding-right: 16px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Sass" 
-    title="Sass"
-    width="64px" 
-    style="padding-right: 16px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
-<img
-    alt="JavaScript" 
-    title="JavaScript"
-    width="64px" 
-    style="padding-right: 16px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
 <!--
 ## 💻 Tecnologias usadas
 
