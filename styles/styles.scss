@@ -367,7 +367,7 @@ footer {
     color: $grayish-blue;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 885px) {
     .nav-actions, #nav-request {
         display: none;
     }
@@ -473,11 +473,13 @@ footer {
         top: 4%;
         right: 0%;
         z-index: 1;
+        width: 100%;
     }
 
     .intro-mockups {
         top: -10%;
         right: 0%;
+        width: 100%;
     }
 
     .benefits {
