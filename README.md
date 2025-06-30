@@ -1,13 +1,17 @@
 # 🏦 Landing Page Easybank (Frontend Mentor) 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do desafio [Digital bank landing page](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) da [Frontend Mentor](https://www.frontendmentor.io/home), com o objetivo de replicar o design de uma interface moderna para um banco digital fictício, o Easybank.
 
 No projeto, meu foco principal foi praticar conceitos fundamentais de HTML semântico, estilização com Sass e interatividade com JavaScript puro, além de aplicar boas práticas de responsividade para dispositivos desktop e mobile.
+
+## 🤖 Tecnologias Utilizadas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🎯 O Desafio
 
